@@ -1,0 +1,11 @@
+{
+  "id":2,
+  "name":"Galpão São Paulo",
+  "code":"GRU",
+  "city":"Guarulhos",
+  "area":100000,
+  "address":"Aeroporto de Guarulhos, 2000",
+  "cep":"18000-000",
+  "description":"Galpão do aeroporto de São Paulo",
+  "state":"SP"
+}
